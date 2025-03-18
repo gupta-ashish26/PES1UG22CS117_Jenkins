@@ -20,7 +20,7 @@ pipeline {
                 sh './output'
             }
         }
-        stage('Deploy') {
+        stageeee('Deploy') {
             steps {
                 echo 'deploy'
             }
